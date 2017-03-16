@@ -1,1 +1,6 @@
 at least need one time username and pasword typed
+
+.netrc
+machine github.com
+login technoweenie
+password SECRET
